@@ -49,4 +49,5 @@ This section will show my personal papers and final theses i created during my a
 - Build on **KPI4CDE** and **GCC** projects (Umweltbundesamt)
 
 📌 **Conclusion**: Strong potential for sustainable practices & further life-cycle research in cloud computing
+
 -📄 [Read Master Thesis](./MA_Beier_Harald.pdf)
