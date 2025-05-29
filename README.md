@@ -28,7 +28,7 @@ This section will show my personal papers and final theses i created during my a
 - Customer satisfaction  
 
 💡 **Conclusion**: Focused implementation of a few high-impact criteria boosts productivity and economic utility
-📄 [Read BA2 Thesis](./BA2_Beier_Harald.pdf)
+- 📄 [Read BA2 Thesis](./BA2_Beier_Harald.pdf)
 
 ### 🎓 Master Thesis - "GREEN CLOUD COMPUTING-Handlungsempfehlungen zum Einsatz von Maßnahmen des Green Cloud Computing für österreichische Rechenzentrumsbetreiber" - Summary
 
@@ -49,4 +49,4 @@ This section will show my personal papers and final theses i created during my a
 - Build on **KPI4CDE** and **GCC** projects (Umweltbundesamt)
 
 📌 **Conclusion**: Strong potential for sustainable practices & further life-cycle research in cloud computing
-📄 [Read Master Thesis](./MA_Beier_Harald.pdf)
+-📄 [Read Master Thesis](./MA_Beier_Harald.pdf)
