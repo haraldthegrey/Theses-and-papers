@@ -32,3 +32,22 @@ This section will show my personal papers and final theses i created during my a
 
 - [MA Harald Beier](https://github.com/haraldthegrey/Theses-and-papers/blob/main/MA_Beier_Harald.pdf?raw=true)
 
+### 🎓 Master Thesis - "GREEN CLOUD COMPUTING-Handlungsempfehlungen zum Einsatz von Maßnahmen des Green Cloud Computing für österreichische Rechenzentrumsbetreiber" - Summary
+
+🌍 **Focus**: Sustainability in Austrian cloud service providers  
+📈 **Context**: Cloud market growth (14.5% → 42.5%, 2017–2022) & environmental impact  
+📚 **Method**: Systematic literature review (PRISMA, Brocke et al.)  
+📑 **Data**: 106 peer-reviewed papers (min. 5 citations)
+
+🔍 **Key Insights**:  
+- CO₂ impact: 0.3%–2% of global emissions  
+- Most efforts target **usage phase** only  
+- Broader **life cycle perspective** is underexplored  
+
+🛠️ **Recommendations**:  
+- Green Cloud implementation plan  
+- Energy-efficient software & hardware  
+- VM Consolidation & bio-inspired algorithms  
+- Build on **KPI4CDE** and **GCC** projects (Umweltbundesamt)
+
+📌 **Conclusion**: Strong potential for sustainable practices & further life-cycle research in cloud computing
