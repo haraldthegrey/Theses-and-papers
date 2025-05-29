@@ -12,7 +12,7 @@ This section will show my personal papers and final theses i created during my a
 
 ✅ **Conclusion**: Combined metrics + testing framework = better productivity tracking  
 🔬 **Next Step**: Empirical study with knowledge workers
-📄 [Read BA1 Thesis](./BA1_Harald_Beier.pdf)
+- 📄 [Read BA1 Thesis](./BA1_Harald_Beier.pdf)
 
 ### 📘 Bachelor Thesis II - GEWICHTETER KRITERIENKATALOG ZU BEWERTUNG AGILER TEAMS - Summary
 
